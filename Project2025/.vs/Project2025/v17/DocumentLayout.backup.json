@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|c:\\users\\user\\desktop\\cross-platform project 2025\\project2025\\project2025\\moviedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|solutionrelative:project2025\\moviedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|c:\\users\\user\\desktop\\cross-platform project 2025\\project2025\\project2025\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|solutionrelative:project2025\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|c:\\users\\user\\desktop\\cross-platform project 2025\\project2025\\project2025\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|solutionrelative:project2025\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|c:\\users\\user\\desktop\\cross-platform project 2025\\project2025\\project2025\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|solutionrelative:project2025\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|c:\\users\\user\\desktop\\cross-platform project 2025\\project2025\\project2025\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|solutionrelative:project2025\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|c:\\users\\user\\desktop\\cross-platform project 2025\\project2025\\project2025\\moviedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD64827-180B-45C0-BC1B-91374B4185F9}|Project2025\\Project2025.csproj|solutionrelative:project2025\\moviedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +34,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MovieDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MovieDetails.xaml.cs",
+              "RelativeDocumentMoniker": "Project2025\\MovieDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MovieDetails.xaml.cs",
+              "RelativeToolTip": "Project2025\\MovieDetails.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:51:10.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MovieDetails.xaml",
+              "RelativeDocumentMoniker": "Project2025\\MovieDetails.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MovieDetails.xaml",
+              "RelativeToolTip": "Project2025\\MovieDetails.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T21:49:29.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MovieViewModel.cs",
+              "RelativeDocumentMoniker": "Project2025\\MovieViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MovieViewModel.cs",
+              "RelativeToolTip": "Project2025\\MovieViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:41:00.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\Movie.cs",
+              "RelativeDocumentMoniker": "Project2025\\Movie.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\Movie.cs",
+              "RelativeToolTip": "Project2025\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:32:29.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Project2025\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MainPage.xaml.cs",
               "RelativeToolTip": "Project2025\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T00:41:42.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MainPage.xaml",
               "RelativeDocumentMoniker": "Project2025\\MainPage.xaml",
               "ToolTip": "C:\\Users\\user\\Desktop\\Cross-platform Project 2025\\Project2025\\Project2025\\MainPage.xaml",
               "RelativeToolTip": "Project2025\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-13T00:41:11.749Z",
               "EditorCaption": ""
